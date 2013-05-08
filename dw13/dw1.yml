@@ -1,0 +1,7 @@
+messageQueue:
+ url: hello
+ queueName: sendmail
+ 
+http:
+  port: 9090
+  adminPort: 9091
