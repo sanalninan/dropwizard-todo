@@ -1,4 +1,4 @@
-package com.ge.dw1.core;
+package com.ge.dw1.api;
 
 import javax.validation.constraints.NotNull;
 
